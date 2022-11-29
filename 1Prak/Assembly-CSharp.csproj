@@ -60,6 +60,8 @@
     <Compile Include="Assets\Scripts\TipToePlatform.cs" />
     <Compile Include="Assets\Scripts\SimpleCharacterControl.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
+    <Compile Include="Assets\Scripts\PhysicsCharacterControl.cs" />
+    <Compile Include="Assets\Scripts\PropellerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
