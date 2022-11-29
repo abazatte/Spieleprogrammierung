@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/TipToeScene.unity
+- path: Assets/Scenes/Lighting_Clean.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
