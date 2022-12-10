@@ -58,12 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PropellerScript.cs" />
     <Compile Include="Assets\Scripts\TipToeLogic.cs" />
+    <Compile Include="Assets\Scripts\ObstacleRotationScript.cs" />
     <Compile Include="Assets\Scripts\PhysicsCharacterControl.cs" />
     <Compile Include="Assets\Scripts\TipToePlatform.cs" />
     <Compile Include="Assets\Scripts\SimpleCharacterControl.cs" />
     <Compile Include="Assets\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\Schwengus.cs" />
-    <Compile Include="Assets\Scripts\ObstacleRotationScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
