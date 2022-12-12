@@ -3197,7 +3197,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100778350912525213, guid: 14fbfdad666d08b44ab71cb8b3a12e4c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.97
+      value: -6.23
       objectReference: {fileID: 0}
     - target: {fileID: 100778350912525213, guid: 14fbfdad666d08b44ab71cb8b3a12e4c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4248,7 +4248,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   camera: {fileID: 1682627013}
   speed: 10
-  respawnPosition: {x: 0, y: 0, z: 0}
+  respawnPosition: {x: 0, y: 5, z: 0}
 --- !u!135 &1350300183
 SphereCollider:
   m_ObjectHideFlags: 0
